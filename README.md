@@ -1,4 +1,3 @@
-I apologize for that. Here is the revised README without mentioning code but still explaining the machine learning model briefly:
 
 # Heart Disease Risk Assessment
 
