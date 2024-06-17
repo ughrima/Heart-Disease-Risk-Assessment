@@ -1,8 +1,8 @@
+<div align='center'>
 
-<h1 style="text-align: center;">Heart Disease Risk Assessment</h1>
+# Heart Disease Risk Assessment
 
-<div style="text-align: center;">
-    <img src="assets/main.jpeg" alt="Main Image" />
+![Main Image](assets/main.jpeg)
 </div>
 
 This project is a web application that allows users to assess their risk of heart disease by entering various health metrics. The app uses a machine learning model to predict whether a user is at risk of heart disease based on the input data.
@@ -91,10 +91,10 @@ The machine learning model was trained using the UCI Heart Disease dataset. Vari
 
 ### Model Training and Evaluation
 Several models were trained and evaluated:
-- **Logistic Regression** achieved an accuracy of 77.17%.
+- **Logistic Regression** achieved an accuracy of 87%.
 - **Decision Tree** was chosen for deployment due to its high accuracy of 97%.
-- **Random Forest** achieved an accuracy of 80%.
-- **Support Vector Machine (SVM)** achieved an accuracy of 75%.
+- **Random Forest** achieved an accuracy of 85%.
+- **Support Vector Machine (SVM)** achieved an accuracy of 89%.
 
 The Decision Tree model was ultimately selected for deployment due to its superior performance.
 
