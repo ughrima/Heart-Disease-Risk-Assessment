@@ -1,6 +1,9 @@
-I apologize for that. Here is the revised README without mentioning code but still explaining the machine learning model briefly:
 
-# Heart Disease Risk Assessment
+<h1 style="text-align: center;">Heart Disease Risk Assessment</h1>
+
+<div style="text-align: center;">
+    <img src="assets/main.jpeg" alt="Main Image" />
+</div>
 
 This project is a web application that allows users to assess their risk of heart disease by entering various health metrics. The app uses a machine learning model to predict whether a user is at risk of heart disease based on the input data.
 
