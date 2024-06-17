@@ -11,8 +11,6 @@ This project is a web application that allows users to assess their risk of hear
 - [Input Parameters](#input-parameters)
 - [Output](#output)
 - [Machine Learning Model](#machine-learning-model)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Overview
 Heart disease describes a range of conditions that affect your heart. These diseases include blood vessel diseases, such as coronary artery disease; heart rhythm problems (arrhythmias); and heart defects you're born with (congenital heart defects). This application helps in predicting the risk of heart disease based on user input, leveraging a trained machine learning model.
